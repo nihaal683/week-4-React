@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "icecream",
+      "price": 121
+    },
+    {
+      "id": 2,
+      "name": "kitkat",
+      "price": 999
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": "6",
+      "name": "Shoe",
+      "price": "789"
+    },
+    {
+      "id": "10",
+      "name": "bull",
+      "price": "6"
+    }
+  ]
+}
